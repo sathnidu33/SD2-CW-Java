@@ -1,2 +1,2 @@
 # SD2-CW--Java-
-Software Development 2- Course Work -Java- Includes Tasks 1-5
+This repo contains software development 2 coursework tasks 1 to 4 Java and task 5 GUI in JavaFX 
